@@ -132,6 +132,11 @@
   color: #333;
 }
 
+.leaflet-control-geosearch form input {
+  color: #333;
+  background-color: #fff;
+}
+
 .leaflet-control-geosearch .results {
   background: #fff;
 }
